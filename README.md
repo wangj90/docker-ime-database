@@ -13,6 +13,4 @@ docker构建ime软件的oracle数据库服务器，针对ime软件的版本：im
 
   2. 映射宿主机的1521端口到容器的1521端口；
 
-  3. 映射宿主机的/home/wangjun/docker_volumes/ime_volumes文件夹到容器的
-
-/u01/dbimport 文件夹
+  3. 映射宿主机的/home/wangjun/docker_volumes/ime_volumes文件夹到容器的/u01/dbimport 文件夹
